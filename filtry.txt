@@ -1,0 +1,25 @@
+||karachan.org/js/htmlshiv.js$script,1p
+||freshscat.com$domain=karachan.org
+||youtube.com/embed/j0aAiKSUzJM$domain=karachan.org
+||koronawirus.netlify.com$domain=karachan.org
+||karachan.org/bolbutthurtu.webm
+||karachan.org/wykop/src/1577811355539470976.webm
+||karachan.org/wykop/src/1584127626835644712.mp4
+||karachan.org/jannn.webm
+||karachan.org/Bursztynek.mp3
+||karachan.org/b/src/rakusptakus2.jpg
+karachan.org###zjadam_srake
+karachan.org###czaj
+karachan.org###kurwy
+karachan.org##body>div:first-child
+karachan.org###delform:style(background-image:none !important)
+karachan.org##.board:style(background-image:none !important)
+karachan.org###jesli-zablokujesz-tego-diva-ukraina-odniesie-zwyciestwo
+!#if cap_html_filtering
+karachan.org##^script:has-text(localStorage.xD)
+karachan.org##^script:has-text(_0x5215)
+!#endif
+!#if !cap_html_filtering
+karachan.org##+js(acis, Math.sin, localStorage.xD)
+karachan.org##+js(acis, Math.random, _0x5215)
+!#endif
